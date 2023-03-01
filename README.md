@@ -7,3 +7,7 @@
 > [Classes and Objects](https://forms.gle/aWYCwP3E7b1TY83h8)
 
 ---
+
+> [Inheritance](https://forms.gle/3dyGVtQLtKxXEx4d9)
+
+---
