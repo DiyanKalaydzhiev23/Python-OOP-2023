@@ -11,3 +11,7 @@
 > [Inheritance](https://forms.gle/3dyGVtQLtKxXEx4d9)
 
 ---
+
+> [Encapsulation](https://forms.gle/hjWBEcHt2GwjbDyy7)
+
+---
