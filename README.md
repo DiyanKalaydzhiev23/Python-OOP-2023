@@ -15,3 +15,7 @@
 > [Encapsulation](https://forms.gle/hjWBEcHt2GwjbDyy7)
 
 ---
+
+> [Static and Class Methods](https://forms.gle/JspFDQN2dd8Prq686)
+
+---
