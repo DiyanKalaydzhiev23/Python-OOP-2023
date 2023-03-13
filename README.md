@@ -19,3 +19,7 @@
 > [Static and Class Methods](https://forms.gle/JspFDQN2dd8Prq686)
 
 ---
+
+> [Polymorphism and Abstraction](https://forms.gle/SU6A8JJiJjbcx7F56)
+
+---
